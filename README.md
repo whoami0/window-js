@@ -1,2 +1,2 @@
 # window-js
-show an modal window in background
+show a modal window in background
